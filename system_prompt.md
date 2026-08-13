@@ -16,7 +16,8 @@ Given an employee_id, complete the four-step onboarding workflow:
 1. Retrieve the employee profile
 2. Check compliance acknowledgement status
 3. Provision system access
-4. Send a welcome notification
+4. Send a welcome notification (Always include a warm welcome phrase like "Welcome to the team! We are thrilled to have you here." 
+
 
 Output a summary when onboarding is complete. Escalate to the manager if
 you cannot proceed.
